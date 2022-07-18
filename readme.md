@@ -16,8 +16,8 @@ Done:
 
 - Clustering with a KMeans, AgglomerativeClustering algorithm and dimension reduction techniques: PCA, t-SNE and UMAP
 
-<img src="pic/clustr3d.png"/>
+<img src="pic/clastr3d.png"/>
 
 - Best result: __TOP 2%__ (144th place out of 5172) with a RMSLE metric __0.11840__
 
-<img src="pic/Kaggle_housing_submit.png"/>
+<img src="pic/kagge_housing_submit.png"/>
